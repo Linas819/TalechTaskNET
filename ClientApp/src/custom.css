@@ -1,0 +1,16 @@
+/* Provide sufficient contrast against white background */
+.home {
+  text-align: center;
+}
+
+.productDetailList {
+  padding-left: 50px !important;
+}
+
+.createProduct {
+  text-align: center;
+}
+
+.productEdit {
+  padding-left: 50px !important;
+}
